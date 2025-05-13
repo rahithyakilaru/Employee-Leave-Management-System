@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|d:\\backend\\employeeleavemanagementsystem\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA2137C-2BDD-AE93-A503-E62954D473AF}|EmployeeLeaveManagementSystem.csproj|solutionrelative:applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T09:43:45.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthController.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\AuthController.cs",
+              "RelativeToolTip": "AuthController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:57:28.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "RegisterModel.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\RegisterModel.cs",
+              "RelativeToolTip": "RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:12:57.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "ILeaveRequestRepository.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "ILeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:49:28.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "LeaveRequestController.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\LeaveRequestController.cs",
+              "RelativeToolTip": "LeaveRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:13:50.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "LeaveRequest.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\LeaveRequest.cs",
+              "RelativeToolTip": "LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T03:04:18.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T03:01:19.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:17:53.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Applicationuser.cs",
+              "DocumentMoniker": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\Applicationuser.cs",
+              "RelativeDocumentMoniker": "Applicationuser.cs",
+              "ToolTip": "D:\\BACKEND\\EmployeeLeaveManagementSystem\\Applicationuser.cs",
+              "RelativeToolTip": "Applicationuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T03:03:00.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
