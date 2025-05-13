@@ -1,0 +1,150 @@
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\appsettings.Development.json
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\appsettings.json
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Employee DB.staticwebassets.endpoints.json
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Employee DB.exe
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Employee DB.deps.json
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Employee DB.runtimeconfig.json
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Employee DB.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Employee DB.pdb
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Humanizer.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.CodeDom.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\System.Text.Json.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\BACKEND\Employee DB\Employee DB\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.csproj.AssemblyReference.cache
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.AssemblyInfoInputs.cache
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.AssemblyInfo.cs
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.csproj.CoreCompileInputs.cache
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.MvcApplicationPartsAssemblyInfo.cs
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.MvcApplicationPartsAssemblyInfo.cache
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\scopedcss\bundle\Employee DB.styles.css
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets.build.json
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets.development.json
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets\msbuild.Employee DB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets\msbuild.Employee DB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee DB.props
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee DB.props
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee DB.props
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee.8E7C8585.Up2Date
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.dll
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\refint\Employee DB.dll
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.pdb
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\Employee DB.genruntimeconfig.cache
+D:\BACKEND\Employee DB\Employee DB\obj\Debug\net8.0\ref\Employee DB.dll

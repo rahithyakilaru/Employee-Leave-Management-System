@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BACKEND\\Employee DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|d:\\backend\\employee db\\employee db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|solutionrelative:employee db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|d:\\backend\\employee db\\employee db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|solutionrelative:employee db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|d:\\backend\\employee db\\employee db\\irepositoryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|solutionrelative:employee db\\irepositoryemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|d:\\backend\\employee db\\employee db\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|solutionrelative:employee db\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|d:\\backend\\employee db\\employee db\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|solutionrelative:employee db\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|d:\\backend\\employee db\\employee db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ADB71D-B5BE-48E4-B0DB-8E44A52A36A2}|Employee DB\\Employee DB.csproj|solutionrelative:employee db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BACKEND\\Employee DB\\Employee DB\\Program.cs",
+              "RelativeDocumentMoniker": "Employee DB\\Program.cs",
+              "ToolTip": "D:\\BACKEND\\Employee DB\\Employee DB\\Program.cs",
+              "RelativeToolTip": "Employee DB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:52:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BACKEND\\Employee DB\\Employee DB\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee DB\\appsettings.json",
+              "ToolTip": "D:\\BACKEND\\Employee DB\\Employee DB\\appsettings.json",
+              "RelativeToolTip": "Employee DB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T08:50:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\BACKEND\\Employee DB\\Employee DB\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Employee DB\\AppDbContext.cs",
+              "ToolTip": "D:\\BACKEND\\Employee DB\\Employee DB\\AppDbContext.cs",
+              "RelativeToolTip": "Employee DB\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:06:30.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryEmployee.cs",
+              "DocumentMoniker": "D:\\BACKEND\\Employee DB\\Employee DB\\IRepositoryEmployee.cs",
+              "RelativeDocumentMoniker": "Employee DB\\IRepositoryEmployee.cs",
+              "ToolTip": "D:\\BACKEND\\Employee DB\\Employee DB\\IRepositoryEmployee.cs",
+              "RelativeToolTip": "Employee DB\\IRepositoryEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:05:53.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\BACKEND\\Employee DB\\Employee DB\\Department.cs",
+              "RelativeDocumentMoniker": "Employee DB\\Department.cs",
+              "ToolTip": "D:\\BACKEND\\Employee DB\\Employee DB\\Department.cs",
+              "RelativeToolTip": "Employee DB\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:34:45.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\BACKEND\\Employee DB\\Employee DB\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee DB\\Employee.cs",
+              "ToolTip": "D:\\BACKEND\\Employee DB\\Employee DB\\Employee.cs",
+              "RelativeToolTip": "Employee DB\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:29:49.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
